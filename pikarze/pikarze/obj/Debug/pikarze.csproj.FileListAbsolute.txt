@@ -1,0 +1,17 @@
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\pikarze.csprojAssemblyReference.cache
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\MainWindow.g.cs
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\App.g.cs
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\pikarze_MarkupCompile.cache
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\pikarze_MarkupCompile.lref
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\TextBoxWithErrorProvider.g.cs
+C:\Users\Rafał\source\repos\pikarze\pikarze\bin\Debug\pikarze.exe.config
+C:\Users\Rafał\source\repos\pikarze\pikarze\bin\Debug\pikarze.exe
+C:\Users\Rafał\source\repos\pikarze\pikarze\bin\Debug\pikarze.pdb
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\MainWindow.baml
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\TextBoxWithErrorProvider.baml
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\pikarze.g.resources
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\pikarze.Properties.Resources.resources
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\pikarze.csproj.GenerateResource.cache
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\pikarze.exe
+C:\Users\Rafał\source\repos\pikarze\pikarze\obj\Debug\pikarze.pdb
